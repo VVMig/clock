@@ -1,1 +1,1 @@
-#[clock](https://vvmig.github.io/clock/)
+[clock](https://vvmig.github.io/clock/)
